@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487102549961",
+    "project_id": "thiranfirebase",
+    "storage_bucket": "thiranfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487102549961:android:e41a48ff817f1c462e2218",
+        "android_client_info": {
+          "package_name": "com.example.thiranfirebasetask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487102549961-9tf95nk8abvsq4mi12mvlvjik137jotf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNTD9NFsJekP4zltoNLurSWRhDj_u8Rlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487102549961-9tf95nk8abvsq4mi12mvlvjik137jotf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
